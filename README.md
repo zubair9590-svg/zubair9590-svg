@@ -7,6 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=zubair9590-svg&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
   <a href="https://github.com/zubair9590-svg?tab=followers"><img src="https://img.shields.io/github/followers/zubair9590-svg?label=Followers&style=flat&color=2563eb" alt="Followers" /></a>
+  <a href="https://zubair9590-svg.github.io/"><img src="https://img.shields.io/badge/Portfolio-visit-7c3aed?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:mohammedzubair9590@gmail.com"><img src="https://img.shields.io/badge/Open_to-collaborate-22c55e?style=flat" alt="Open to collaborate" /></a>
 </p>
 
@@ -16,6 +17,7 @@
 
 - 🎨 I design clean, modern interfaces, then build them into fast, responsive web apps
 - 🔭 Recently shipped [**Palette Studio**](https://zubair9590-svg.github.io/palette-studio/) and [**TaskFlow**](https://zubair9590-svg.github.io/taskflow/), both live on GitHub Pages
+- 🌐 See all my work in one place on my [**portfolio**](https://zubair9590-svg.github.io/)
 - 🤝 Open to collaborating on design & web projects
 
 ```js
@@ -75,6 +77,7 @@ const zubair = {
 
 ### 📫 Connect with me
 
+<a href="https://zubair9590-svg.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:mohammedzubair9590@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer" alt="" width="100%" />
