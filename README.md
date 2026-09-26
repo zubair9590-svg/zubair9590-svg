@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=200&section=header&text=Zubair&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Designer%20%7C%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Zubair: Designer and Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=200&section=header&text=Zubair&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Designer%20%7C%20Developer&descSize=20&descAlignY=58&animation=none" alt="Zubair: Designer and Developer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Designer+%26+Developer;Crafting+clean%2C+modern+UIs;Building+web+apps+with+React+%26+Node.js;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+Java" alt="Designer and developer" />
 
