@@ -16,7 +16,7 @@
 ### 💡 About me
 
 - 🎨 I design clean, modern interfaces, then build them into fast, responsive web apps
-- 🔭 Recently shipped [**Palette Studio**](https://zubair9590-svg.github.io/palette-studio/) and [**TaskFlow**](https://zubair9590-svg.github.io/taskflow/), both live on GitHub Pages
+- 🔭 Recently shipped [**Due at 11:59**](https://due-at-1159.due-at-1159.workers.dev), a real-time multiplayer party game, plus [**Palette Studio**](https://zubair9590-svg.github.io/palette-studio/) and [**TaskFlow**](https://zubair9590-svg.github.io/taskflow/). All three are live to try
 - 🌐 See all my work in one place on my [**portfolio**](https://zubair9590-svg.github.io/)
 - 🤝 Open to collaborating on design & web projects
 
@@ -33,7 +33,7 @@ const zubair = {
 
 **Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,java" alt="HTML, CSS, JavaScript, React, Node.js, Python, C, C++, Java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,workers,python,c,cpp,java" alt="HTML, CSS, JavaScript, React, Node.js, Cloudflare Workers, Python, C, C++, Java" />
 
 **Design**
 
@@ -43,6 +43,7 @@ const zubair = {
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| ⏰ **[Due at 11:59](https://github.com/zubair9590-svg/due-at-1159)** · [play now](https://due-at-1159.due-at-1159.workers.dev) | Real-time multiplayer party game for 1–8 players: every phone is a different job on a group project that's due at midnight | Cloudflare Workers · Durable Objects · JavaScript |
 | 🎨 **[Palette Studio](https://github.com/zubair9590-svg/palette-studio)** · [live demo](https://zubair9590-svg.github.io/palette-studio/) | Color palette generator with 5 harmony modes, color locking, WCAG contrast checks and CSS/JSON export | HTML · CSS · JavaScript |
 | ✅ **[TaskFlow](https://github.com/zubair9590-svg/taskflow)** · [live demo](https://zubair9590-svg.github.io/taskflow/) | Kanban board with drag & drop, priorities, due dates, search and dark/light themes | React · Vite |
 | ✂️ **[Snip](https://github.com/zubair9590-svg/snip)** | URL shortener REST API with click analytics, custom aliases and a web UI | Node.js · Express |
